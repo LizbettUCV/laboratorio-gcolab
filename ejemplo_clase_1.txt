@@ -1,0 +1,3 @@
+Estimado estudiantes, iniciamos la Sesión del curso de Big Data. 
+Con ello tenemos un temario introductorio del uso de Google Colab.
+Iniciamos...
